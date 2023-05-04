@@ -1,0 +1,64 @@
+/* Colores */
+h1{
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 4px 5px rgb(182, 182, 182);;
+}
+
+h1
+h3{color: rgb(0, 0, 0);}
+p{color: rgb(0, 0, 0);}
+
+
+/* Fondo Pagina */
+body{
+    min-height: 200%;
+    background-color:  rgb(255, 255, 255) !important;
+    background-size: cover;
+      }
+
+/* Color y letra Barra de Navegacion */
+nav.navbar {background-color: rgb(255, 255, 255);}
+.nav-link:hover{
+    color: rgb(110, 110, 110);
+ }
+
+ nav.navbar ul.nav li {
+    font-family: "Helvetica Neue",Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* FOOTER */
+footer{
+    text-align: center;;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(237, 167, 179, 0.5);
+    width: 100%;
+    height: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    max-width:100%;
+}
+/* Lista de Integrantes */
+/* .lista{
+    background-color: rgb(168, 103, 229);
+    width: 30%;
+    height: 150px;
+    position:absolute;
+    top:99%;
+    left:35%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 2px 2px 2px 4px rgba(0, 0, 0, 0.2);
+} */
+
+/* Parrafo */
+/* p{
+    background-color: rgb(170, 170, 170);
+    width: 200%;
+    height: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 2px 2px 2px 4px rgba(0, 0, 0, 0.2);
+
+} */
+
+
+   
